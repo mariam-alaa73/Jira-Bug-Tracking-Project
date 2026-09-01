@@ -32,12 +32,14 @@ To Do → In Progress → Done
 
 ## Bugs
 
-| Bug ID | Description | Priority | Severity | Status |
-| KAN-6 | Login button does not work with valid credentials | High | High | To Do |
-| KAN-7 | Product image is not displayed on product details page | Medium | Medium | Done |
-| KAN-8 | Checkout button is disabled after adding a product to cart | High | High | Done |
-| KAN-9 | Cart quantity is not updated after changing the product quantity | Medium | Medium | in progress |
-| KAN-10 | Checkout allows user to continue without required customer information | High | High | in progress |
+| Bug ID | Description                                                            | Priority | Severity | Status |
+| ------ | ---------------------------------------------------------------------- | -------- | -------- | ------ |
+| KAN-6  | Login button does not work with valid credentials                      | High     | High     | To Do  |
+| KAN-7  | Product image is not displayed on product details page                 | Medium   | Medium   | Done   |
+| KAN-8  | Checkout button is disabled after adding a product to cart             | High     | High     | Done   |
+| KAN-9  | Cart quantity is not updated after changing the product quantity       | Medium   | Medium   | To Do  |
+| KAN-10 | Checkout allows user to continue without required customer information | High     | High     | To Do  |
+
 
 ## Bug Report Example
 
